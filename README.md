@@ -109,7 +109,7 @@ evoluir tecnicamente e contribuir com a equipe.
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielForcinito&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielForcinito&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
