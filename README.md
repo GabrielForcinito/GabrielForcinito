@@ -16,21 +16,20 @@ Atualmente estou focado em desenvolvimento web, estudando HTML, CSS e JavaScript
 
 Tenho facilidade de aprendizado, gosto de resolver problemas e estou em busca da minha primeira oportunidade como desenvolvedor.
 
-<p align="start">
-    <a href="https://github.com/GabrielForcinito?tab=repositories&sort=stargazers">
+<p align="left">
+    </a>
+      <a href="https://github.com/GabrielForcinito?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/GabrielForcinito?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        /></a>
+     <a href="https://github.com/GabrielForcinito?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/GabrielForcinito?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
-    </a>
-    <a href="https://github.com/GabrielForcinito?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GabrielForcinito?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 </p>
 
 ## 🎓Formação
