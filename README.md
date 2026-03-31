@@ -9,28 +9,24 @@
 📍 São Paulo - SP  
 
 
-# 🧠 Sobre mim
+## 🧠 Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas e formado em Automação Industrial, com experiência prática em sistemas de automação predial (BMS).
 
 Atualmente estou focado em desenvolvimento web, estudando HTML, CSS e JavaScript, enquanto desenvolvo projetos próprios para evoluir minhas habilidades e construir meu portfólio.
 
 Tenho facilidade de aprendizado, gosto de resolver problemas e estou em busca da minha primeira oportunidade como desenvolvedor.
 
-<p align="left">
-    </a>
-      <a href="https://github.com/GabrielForcinito?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GabrielForcinito?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        /></a>
-     <a href="https://github.com/GabrielForcinito?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/GabrielForcinito?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-</p>
+<a href="https://github.com/GabrielForcinito?tab=followers">
+  <img 
+    alt="Seguidores"
+    src="https://img.shields.io/github/followers/GabrielForcinito?style=for-the-badge&color=236ad3&label=Seguidores"
+  /></a>
+<a href="https://github.com/GabrielForcinito?tab=repositories&sort=stargazers">
+  <img 
+    alt="Estrelas"
+    src="https://img.shields.io/github/stars/GabrielForcinito?style=for-the-badge&color=55960c&label=Estrelas"
+  />
+</a>
 
 ## 🎓Formação
 - 🎓 Análise e Desenvolvimento de Sistemas — Universidade Cruzeiro do Sul (2026 - 2027)  
@@ -99,17 +95,13 @@ evoluir tecnicamente e contribuir com a equipe.
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GabrielForcinito&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=GabrielForcinito&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielForcinito&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielForcinito&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
   />
-
 </p>
