@@ -95,7 +95,7 @@ evoluir tecnicamente e contribuir com a equipe.
 <p>
   <img 
     align="left" 
-    height="200"
+    width="48%"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielForcinito&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
   />
 
