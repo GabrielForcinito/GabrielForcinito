@@ -31,7 +31,7 @@ Tenho facilidade de aprendizado, gosto de resolver problemas e estou em busca da
 ## 🎓Formação
 - 🎓 Análise e Desenvolvimento de Sistemas — Universidade Cruzeiro do Sul (2026 - 2027)  
 - 🎓 Automação Industrial — FATEC Itaquera (2022 - 2025)  
-- 🎓 Técnico em Automação Industrial — ETEC Martin Luther King  
+- 🎓 Técnico em Automação Industrial — ETEC Martin Luther King (2020 - 2022) 
 
 
 ## 💼 Experiência
