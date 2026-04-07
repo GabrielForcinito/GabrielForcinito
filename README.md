@@ -49,7 +49,7 @@ evoluir tecnicamente e contribuir com a equipe.
 
 
 ## 📫 Contato
-- 📧 gabrielforcinito06@gmail.com   
+- 📧 E-mail: gabrielforcinito06@gmail.com   
 - 💼 LinkedIn: https://www.linkedin.com/  
 
 
