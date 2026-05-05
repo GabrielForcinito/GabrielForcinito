@@ -2,8 +2,6 @@
 
 💻 Estudante de Tecnologia e Desenvolvedor em formação  
 
-🚀 Em transição de carreira para a área de desenvolvimento
-
 🏭 Técnico e Tecnólogo em Automação Industrial
 
 📍 São Paulo - SP  
@@ -29,19 +27,9 @@ Tenho facilidade de aprendizado, gosto de resolver problemas e estou em busca da
 </a>
 
 ## 🎓Formação
-- 🎓 Análise e Desenvolvimento de Sistemas — Universidade Cruzeiro do Sul (2026 - 2027)  
-- 🎓 Automação Industrial — FATEC Itaquera (2022 - 2025)  
-- 🎓 Técnico em Automação Industrial — ETEC Martin Luther King (2020 - 2022) 
-
-
-## 💼 Experiência
-**Estagiário em Automação — SMART SLG (2025)**  
-
-- Atuação em sistemas de combate a incêndio (configuração de detectores e módulos)  
-- Comissionamento de sistemas de automação predial (BMS)  
-- Desenvolvimento de telas gráficas, alarmes e históricos em softwares de automação  
-- Integração entre sistemas (CFTV, controle de acesso, iluminação, medição)  
-
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas  
+- 🎓 tecnólogo em Automação Industrial  
+- 🎓 Técnico em Automação Industrial 
 
 ## 📈 Objetivo
 Busco minha primeira oportunidade como desenvolvedor (estágio ou júnior), onde eu possa aplicar meus conhecimentos, 
