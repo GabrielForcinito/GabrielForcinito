@@ -17,7 +17,7 @@ Tenho facilidade de aprendizado, gosto de resolver problemas e estou em busca da
 <a href="https://github.com/GabrielForcinito?tab=followers">
   <img 
     alt="Seguidores"
-    src="https://img.shields.io/github/followers/GabrielForcinito?style=for-the-badge&color=236ad3&label=Seguidores"
+    src="https://img.shields.io/github/followers/GabrielForcinito?style=for-the-badge&label=Seguidores&color=blue"
   /></a>
 <a href="https://github.com/GabrielForcinito?tab=repositories&sort=stargazers">
   <img 
