@@ -14,17 +14,6 @@ Atualmente estou focado em desenvolvimento web, estudando HTML, CSS e JavaScript
 
 Tenho facilidade de aprendizado, gosto de resolver problemas e estou em busca da minha primeira oportunidade como desenvolvedor.
 
-<a href="https://github.com/GabrielForcinito?tab=followers">
-  <img 
-    alt="Seguidores"
-    src="https://img.shields.io/github/followers/GabrielForcinito?style=for-the-badge&label=Seguidores&color=blue"
-  /></a>
-<a href="https://github.com/GabrielForcinito?tab=repositories&sort=stargazers">
-  <img 
-    alt="Estrelas"
-    src="https://img.shields.io/github/stars/GabrielForcinito?style=for-the-badge&color=55960c&label=Estrelas"
-  />
-</a>
 
 ## 🎓Formação
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas  
